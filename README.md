@@ -1,3 +1,3 @@
-## This is my repo for my lab 2!
-#### Hope it is to your standard ;)
-#### Myles Biss
+# Basic API Calculator App
+### Put together to prove ability to use Connect and URL
+### For my API Class
